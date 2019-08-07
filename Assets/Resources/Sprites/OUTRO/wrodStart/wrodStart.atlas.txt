@@ -1,0 +1,40 @@
+
+wrodStart.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cienw
+  rotate: false
+  xy: 2, 874
+  size: 583, 70
+  orig: 585, 72
+  offset: 1, 1
+  index: -1
+leb
+  rotate: false
+  xy: 2, 317
+  size: 555, 555
+  orig: 557, 557
+  offset: 1, 1
+  index: -1
+lewawelwealwe
+  rotate: false
+  xy: 334, 2
+  size: 192, 313
+  orig: 194, 315
+  offset: 1, 1
+  index: -1
+nrxzuchwrorodo
+  rotate: false
+  xy: 2, 84
+  size: 330, 231
+  orig: 332, 233
+  offset: 1, 1
+  index: -1
+prawapwarpapw
+  rotate: true
+  xy: 587, 752
+  size: 192, 313
+  orig: 194, 315
+  offset: 1, 1
+  index: -1

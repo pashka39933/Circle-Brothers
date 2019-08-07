@@ -1,0 +1,12 @@
+
+pow.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cien
+  rotate: false
+  xy: 2, 2
+  size: 1487, 1450
+  orig: 1489, 1452
+  offset: 1, 1
+  index: -1

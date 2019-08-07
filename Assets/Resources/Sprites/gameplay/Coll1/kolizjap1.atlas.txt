@@ -1,0 +1,26 @@
+
+kolizjap1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 671, 4
+  size: 578, 667
+  orig: 580, 669
+  offset: 1, 1
+  index: -1
+Layer 2
+  rotate: false
+  xy: 2, 2
+  size: 667, 580
+  orig: 669, 582
+  offset: 1, 1
+  index: -1
+Layer 3
+  rotate: false
+  xy: 1340, 373
+  size: 176, 209
+  orig: 178, 211
+  offset: 1, 1
+  index: -1

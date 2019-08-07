@@ -1,0 +1,26 @@
+
+bat.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 517, 2
+  size: 101, 217
+  orig: 103, 219
+  offset: 1, 1
+  index: -1
+Layer 2
+  rotate: false
+  xy: 260, 2
+  size: 255, 101
+  orig: 257, 103
+  offset: 1, 1
+  index: -1
+Layer 3
+  rotate: false
+  xy: 2, 2
+  size: 256, 101
+  orig: 258, 103
+  offset: 1, 1
+  index: -1

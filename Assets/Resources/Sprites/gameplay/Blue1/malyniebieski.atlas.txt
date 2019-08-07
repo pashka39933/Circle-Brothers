@@ -1,0 +1,26 @@
+
+malyniebieski.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+malyglowan
+  rotate: false
+  xy: 2, 2
+  size: 176, 176
+  orig: 178, 178
+  offset: 1, 1
+  index: -1
+malylewan
+  rotate: false
+  xy: 180, 109
+  size: 36, 69
+  orig: 38, 71
+  offset: 1, 1
+  index: -1
+malyprawan
+  rotate: false
+  xy: 180, 38
+  size: 36, 69
+  orig: 38, 71
+  offset: 1, 1
+  index: -1

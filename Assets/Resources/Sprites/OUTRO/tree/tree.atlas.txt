@@ -1,0 +1,26 @@
+
+tree.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dok
+  rotate: false
+  xy: 1936, 1993
+  size: 87, 47
+  orig: 89, 49
+  offset: 1, 1
+  index: -1
+dok1
+  rotate: false
+  xy: 1936, 1944
+  size: 87, 47
+  orig: 89, 49
+  offset: 1, 1
+  index: -1
+drzew
+  rotate: false
+  xy: 2, 2
+  size: 1932, 2038
+  orig: 1934, 2040
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,26 @@
+
+introblue.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+introblue1
+  rotate: true
+  xy: 2, 2
+  size: 40, 76
+  orig: 42, 78
+  offset: 1, 1
+  index: -1
+introblue2
+  rotate: false
+  xy: 198, 162
+  size: 40, 76
+  orig: 42, 78
+  offset: 1, 1
+  index: -1
+introblue3
+  rotate: false
+  xy: 2, 44
+  size: 194, 194
+  orig: 196, 196
+  offset: 1, 1
+  index: -1

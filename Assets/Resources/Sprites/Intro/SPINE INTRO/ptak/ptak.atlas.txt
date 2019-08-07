@@ -1,0 +1,19 @@
+
+ptak.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leweskrzydlo
+  rotate: false
+  xy: 2, 2
+  size: 71, 44
+  orig: 73, 46
+  offset: 1, 1
+  index: -1
+praweskrzydlo
+  rotate: false
+  xy: 75, 2
+  size: 71, 44
+  orig: 73, 46
+  offset: 1, 1
+  index: -1

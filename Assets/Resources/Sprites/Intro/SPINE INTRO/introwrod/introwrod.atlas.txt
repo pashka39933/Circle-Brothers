@@ -1,0 +1,68 @@
+
+introwrod.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+introwrod
+  rotate: true
+  xy: 2, 211
+  size: 278, 552
+  orig: 280, 554
+  offset: 1, 1
+  index: -1
+k1
+  rotate: false
+  xy: 556, 362
+  size: 42, 42
+  orig: 44, 44
+  offset: 1, 1
+  index: -1
+k2
+  rotate: false
+  xy: 2, 126
+  size: 83, 83
+  orig: 85, 85
+  offset: 1, 1
+  index: -1
+k3
+  rotate: false
+  xy: 556, 406
+  size: 83, 83
+  orig: 85, 85
+  offset: 1, 1
+  index: -1
+k4
+  rotate: false
+  xy: 2, 41
+  size: 83, 83
+  orig: 85, 85
+  offset: 1, 1
+  index: -1
+k5
+  rotate: false
+  xy: 87, 126
+  size: 83, 83
+  orig: 85, 85
+  offset: 1, 1
+  index: -1
+k6
+  rotate: false
+  xy: 641, 452
+  size: 37, 37
+  orig: 39, 39
+  offset: 1, 1
+  index: -1
+k7
+  rotate: false
+  xy: 2, 2
+  size: 37, 37
+  orig: 39, 39
+  offset: 1, 1
+  index: -1
+k8
+  rotate: false
+  xy: 87, 87
+  size: 37, 37
+  orig: 39, 39
+  offset: 1, 1
+  index: -1

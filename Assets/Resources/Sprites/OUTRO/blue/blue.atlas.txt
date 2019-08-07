@@ -1,0 +1,33 @@
+
+blue.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cieng
+  rotate: false
+  xy: 2, 391
+  size: 449, 54
+  orig: 451, 56
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 387, 387
+  orig: 389, 389
+  offset: 1, 1
+  index: -1
+lewag
+  rotate: false
+  xy: 391, 237
+  size: 79, 152
+  orig: 81, 154
+  offset: 1, 1
+  index: -1
+orawag
+  rotate: false
+  xy: 391, 83
+  size: 79, 152
+  orig: 81, 154
+  offset: 1, 1
+  index: -1

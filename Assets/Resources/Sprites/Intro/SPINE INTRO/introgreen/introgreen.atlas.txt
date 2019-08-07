@@ -1,0 +1,26 @@
+
+introgreen.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+introgreen1
+  rotate: true
+  xy: 2, 2
+  size: 40, 76
+  orig: 42, 78
+  offset: 1, 1
+  index: -1
+introgreen2
+  rotate: false
+  xy: 198, 162
+  size: 40, 76
+  orig: 42, 78
+  offset: 1, 1
+  index: -1
+introgreen3
+  rotate: false
+  xy: 2, 44
+  size: 194, 194
+  orig: 196, 196
+  offset: 1, 1
+  index: -1

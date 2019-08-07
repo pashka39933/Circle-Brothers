@@ -1,0 +1,12 @@
+
+gwiazdka.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gwiazdka
+  rotate: false
+  xy: 2, 2
+  size: 60, 60
+  orig: 62, 62
+  offset: 1, 1
+  index: -1

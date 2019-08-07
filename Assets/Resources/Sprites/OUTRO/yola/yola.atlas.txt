@@ -1,0 +1,33 @@
+
+yola.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group
+  rotate: false
+  xy: 2, 190
+  size: 374, 45
+  orig: 376, 47
+  offset: 1, 1
+  index: -1
+eeeeeeeeee
+  rotate: false
+  xy: 2, 97
+  size: 48, 91
+  orig: 50, 93
+  offset: 1, 1
+  index: -1
+rrrrrr
+  rotate: false
+  xy: 698, 144
+  size: 48, 91
+  orig: 50, 93
+  offset: 1, 1
+  index: -1
+yyyyyyyyy
+  rotate: true
+  xy: 378, 2
+  size: 233, 318
+  orig: 235, 320
+  offset: 1, 1
+  index: -1

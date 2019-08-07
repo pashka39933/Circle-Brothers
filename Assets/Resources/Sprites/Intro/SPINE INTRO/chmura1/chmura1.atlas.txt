@@ -1,0 +1,12 @@
+
+chmura1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ichmura1
+  rotate: false
+  xy: 2, 2
+  size: 368, 228
+  orig: 370, 230
+  offset: 1, 1
+  index: -1

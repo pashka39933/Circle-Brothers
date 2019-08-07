@@ -1,0 +1,26 @@
+
+intropink.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+intropink1
+  rotate: false
+  xy: 164, 73
+  size: 24, 46
+  orig: 26, 48
+  offset: 1, 1
+  index: -1
+intropink2
+  rotate: false
+  xy: 164, 25
+  size: 24, 46
+  orig: 26, 48
+  offset: 1, 1
+  index: -1
+intropink3
+  rotate: true
+  xy: 2, 2
+  size: 117, 160
+  orig: 119, 162
+  offset: 1, 1
+  index: -1
